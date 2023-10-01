@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/bin/Debug/net7.0/UpiTarea2Progra2
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/bin/Debug/net7.0/UpiTarea2Progra2.deps.json
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/bin/Debug/net7.0/UpiTarea2Progra2.runtimeconfig.json
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/bin/Debug/net7.0/UpiTarea2Progra2.dll
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/bin/Debug/net7.0/UpiTarea2Progra2.pdb
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.AssemblyInfo.cs
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.dll
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/refint/UpiTarea2Progra2.dll
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.pdb
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/UpiTarea2Progra2.genruntimeconfig.cache
+/Users/mac/Desktop/Programación 2/UPITarea2Progra2/obj/Debug/net7.0/ref/UpiTarea2Progra2.dll
